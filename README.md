@@ -14,6 +14,7 @@ Install missing dependencies using [pip](https://pip.pypa.io/en/stable/installin
 Once you have your dependencies installed via pip, run the script in terminal via
 
 ```
-python demo.py
+python tw1.py
+```
 ##Credits
 Siraj Raval
